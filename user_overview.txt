@@ -1,0 +1,19 @@
+User Overview Report
+
+Total number of registered users: 2
+Total number of tasks: 2
+
+User: admin
+  Total number of tasks assigned: 1
+  Percentage of total tasks assigned: 50.00%
+  Percentage of tasks completed: 0.00%
+  Percentage of tasks to be completed: 0.00%
+  Percentage of overdue tasks: N/A
+
+User: Marilia
+  Total number of tasks assigned: 1
+  Percentage of total tasks assigned: 50.00%
+  Percentage of tasks completed: 0.00%
+  Percentage of tasks to be completed: 0.00%
+  Percentage of overdue tasks: N/A
+
